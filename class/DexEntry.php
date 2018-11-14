@@ -6,7 +6,7 @@ include_once "class/Sidebar.php";
  * Fusion Dex UI class
  */
 class DexEntry {
-	var $fusion;     //The Fusion described into the evolution
+	var $fusion;     //The Fusion described in the dex entry
 	var $evolutions; //The array of the next stage or stages of evolution
 	var $areas;      //Where to encounter/obtain the Fusion
 	
